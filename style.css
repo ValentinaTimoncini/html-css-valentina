@@ -18,3 +18,7 @@ hr{
 .nomi{
     background-color: beige;
 }
+
+table{
+    display: inline;
+}
